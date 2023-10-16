@@ -1,5 +1,3 @@
-My apologies for including the program names and the incorrect repository name. Here's the updated README.md template for your "Java-4-BSc" repository without program names:
-
 # Java-4-BSc Repository
 
 Welcome to the "Java-4-BSc" repository! This repository contains a collection of Java programs designed specifically for BSc Semester III Computer Science students at RTM Nagpur University. These programs are aimed at helping you understand and practice various data structures and algorithms concepts in Java.
