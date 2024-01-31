@@ -6,7 +6,6 @@ Welcome to the "Java-4-BSc" repository! This repository contains a collection of
 
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [Program List](#program-list)
 - [Resources](#resources)
 - [Contact](#contact)
 
@@ -28,10 +27,6 @@ To use the programs in this repository, follow these steps:
 4. Compile and run the Java program using a suitable Java compiler or integrated development environment (IDE).
 
 5. Study the code and experiment with different inputs to gain a better understanding of the data structure and algorithm being demonstrated in Java.
-
-## Program List
-
-You can explore each program here:
 
 ## Resources
 
